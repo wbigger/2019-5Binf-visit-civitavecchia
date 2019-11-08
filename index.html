@@ -62,7 +62,7 @@
           <!-- Slide 1 -->
           <div class="item active">
             <div class="carousel-background">
-              <video>
+              <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                 <source src="https://visit-civitavecchia.s3-eu-west-1.amazonaws.com/Stone-Falls.mp4" type="video/mp4">
               </video>
             </div>
@@ -77,7 +77,9 @@
                 <div id="light">
                   <a class="boxclose" id="boxclose" onclick="console.log(`hum`);lightbox_close();"></a>
                   <video id="VisaChipCardVideo" width="600" controls>
-                    <source src="https://visit-civitavecchia.s3-eu-west-1.amazonaws.com/Stone-Falls.mp4" type="video/mp4">
+                    <track label="English" kind="subtitles" srclang="en" src="captions/vtt/sintel-en.vtt" default>
+                    <source src="https://visit-civitavecchia.s3-eu-west-1.amazonaws.com/Stone-Falls.mp4"
+                      type="video/mp4">
                     <!--Browser does not support <video> tag -->
                   </video>
                 </div>
