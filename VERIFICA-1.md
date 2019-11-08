@@ -8,11 +8,6 @@ Il compito è diviso in tre fasi:
 1. modifica di una pagina web in locale
 1. deploy della pagina web sull'istanza EC2
 
-Ci sono due file che differiscono unicamente per il wireframe che dovrà essere implementato nella seconda parte del compito:
-- FILA A: https://wireframe.cc/pro/pp/9ec31bf6e287392
-- FILA B: https://wireframe.cc/pro/pp/4b8694764287397
-
-
 ## Operazioni preliminari
 Accesso ad AWS:
 - accedete alla [pagina di login](https://www.awseducate.com/signin/SiteLogin) di AWS Educate
@@ -52,7 +47,7 @@ Per avere il massimo del voto bisogna avere il massimo del punteggio.
 ### Parte prima: AWS
 - [ ] creare una istanza Amazon Linux 2 con architettura x86 a 64 bit
 - [ ] creare una istanza per uso generale, che abbia almeno 2GB di RAM e senza particolari requisiti per la CPU, lo storage e le prestazioni di rete
-- [ ] configurare l'istanza in modo da accettare chiamate HTTP, HTTPS e MYSQL
+- [ ] configurare l'istanza in modo da accettare chiamate HTTP, HTTPS e MYSQL (quest'ultima accessibile solo dal mio IP)
 - [ ] connettersi all'istanza e configurare il web server nginx
 - [ ] la pagina di default del web server è correttamente visulizzata nel browser del proprio computer di sviluppo
 
