@@ -56,7 +56,7 @@ Per avere il massimo del voto bisogna avere il massimo del punteggio.
 - [ ] modifica del titolo della pagina in "Visita Civitavecchia"
 - [ ] heading principale e relativo sottotitolo corretto
 - [ ] una immagine del forte con descrizione corretta
-- [ ] tutte e tre le immagini del forte e descrizione corrette
+- [ ] tutte e tre le immagini del forte e descrizioni corrette
 - [ ] crezione di due screenshots, uno per desktop e uno per smartphone, da caricare su github
 - [ ] corretta capitalizzazione di tutti i testi
 - [ ] sostituire l'immagine di background con il video a [questo link](https://visit-civitavecchia.s3-eu-west-1.amazonaws.com/Stone-Falls.mp4), che si riproduca inline, abbia l'autoplay, sia muto (muted) e a loop (vedi la [documentazione ufficiale](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) di MDN)
