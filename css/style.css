@@ -432,21 +432,6 @@ About
   }
 }
 
-#about .content h2 {
-  color: #333;
-  font-weight: 300;
-  font-size: 24px;
-  text-align: left;
-}
-
-#about .content h3 {
-  color: #777;
-  font-weight: 300;
-  font-size: 18px;
-  line-height: 26px;
-  font-style: italic;
-  text-align: left;
-}
 
 #about .content p {
   line-height: 26px;
