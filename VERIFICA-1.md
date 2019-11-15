@@ -54,7 +54,7 @@ Per avere il massimo del voto bisogna avere il massimo del punteggio.
 
 ### Parte seconda: sviluppo web in locale
 - [X] modifica del titolo della pagina in "Visita Civitavecchia"
-- [X] heading principale e relativo sottotitolo corretto
+- [/] heading principale e relativo sottotitolo corretto
 - [X] una immagine del forte con descrizione corretta
 - [X] tutte e tre le immagini del forte e descrizioni corrette
 - [X] crezione di due screenshots, uno per desktop e uno per smartphone, da caricare su github
