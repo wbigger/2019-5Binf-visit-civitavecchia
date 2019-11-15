@@ -42,27 +42,23 @@ Per avere il massimo del voto bisogna avere il massimo del punteggio.
 
 
 ### Punti generali
-- [ ] corretta indentazione di tutti i file
-- [ ] codice che compila senza errori nella console del browser
+- [X] corretta indentazione di tutti i file
+- [X] codice che compila senza errori nella console del browser
 
 ### Parte prima: AWS
-- [ ] creare una istanza Amazon Linux 2 con architettura x86 a 64 bit
-- [ ] creare una istanza per uso generale, che abbia almeno 2GB di RAM e senza particolari requisiti per la CPU, lo storage e le prestazioni di rete
-- [ ] configurare l'istanza in modo da accettare chiamate HTTP, HTTPS e MYSQL (quest'ultima accessibile solo dal mio IP)
-- [ ] connettersi all'istanza e configurare il web server nginx
-- [ ] la pagina di default del web server è correttamente visulizzata nel browser del proprio computer di sviluppo
+- [X] creare una istanza Amazon Linux 2 con architettura x86 a 64 bit
+- [X] creare una istanza per uso generale, che abbia almeno 2GB di RAM e senza particolari requisiti per la CPU, lo storage e le prestazioni di rete
+- [X] configurare l'istanza in modo da accettare chiamate HTTP, HTTPS e MYSQL (quest'ultima accessibile solo dal mio IP)
+- [X] connettersi all'istanza e configurare il web server nginx
+- [X] la pagina di default del web server è correttamente visulizzata nel browser del proprio computer di sviluppo
 
 ### Parte seconda: sviluppo web in locale
-- [ ] modifica del titolo della pagina in "Visita Civitavecchia"
-- [ ] heading principale e relativo sottotitolo corretto
-- [ ] una immagine del forte con descrizione corretta
-- [ ] tutte e tre le immagini del forte e descrizioni corrette
+- [X] modifica del titolo della pagina in "Visita Civitavecchia"
+- [X] heading principale e relativo sottotitolo corretto
+- [X] una immagine del forte con descrizione corretta
+- [/] tutte e tre le immagini del forte e descrizioni corrette
 - [ ] crezione di due screenshots, uno per desktop e uno per smartphone, da caricare su github
-- [ ] corretta capitalizzazione di tutti i testi
-- [ ] sostituire l'immagine di background con il video a [questo link](https://visit-civitavecchia.s3-eu-west-1.amazonaws.com/Stone-Falls.mp4), che si riproduca inline, abbia l'autoplay, sia muto (muted) e a loop (vedi la [documentazione ufficiale](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) di MDN)
-- [ ] quando viene premuto il tasto "Scopri di più", va alla sezione about
-- [ ] quando viene premuto il tasto "Guarda il video", viene chiamata la funzione "lightbox_open();"
-- [ ] seguendo [questo](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video) tutorial, aggiungere i sottotitoli in inglese al video.
+- [X] corretta capitalizzazione di tutti i testi
 
 ### Parte terza: deploy
 - [ ] download del progetto web sull'istanza
