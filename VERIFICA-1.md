@@ -8,7 +8,6 @@ Il compito è diviso in tre fasi:
 1. modifica di una pagina web in locale
 1. deploy della pagina web sull'istanza EC2
 
-Wireframe: [https://wireframe.cc/pro/pp/a3fa2da93288625](https://wireframe.cc/pro/pp/a3fa2da93288625)
 ## Operazioni preliminari
 Accesso ad AWS:
 - accedete alla [pagina di login](https://www.awseducate.com/signin/SiteLogin) di AWS Educate
